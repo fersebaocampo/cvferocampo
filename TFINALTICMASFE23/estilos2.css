@@ -1,0 +1,45 @@
+body{
+    background-image: url(fondocv3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,h2{
+    border-bottom: 6px solid grey;
+}
+
+body{
+    font-family:sans-serif;
+    color: black;
+}
+
+p{
+    text-align: right;
+}
+
+a:link, a:visited {
+    color: black;
+    padding: 10px 20px;
+    text-align: none;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:blue;
+    color:skyblue;
+  }
+
+  .menu ad {
+    width: 30%;
+    float: left;
+    padding: 15px;
+    border: 1px solid black;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+
+  
